@@ -1,3 +1,4 @@
+#Copyright Daniel Harding - RomanAILabs
 #!/usr/bin/env python3
 """
 SPACETIME_36B_PROFESSIONAL.py — High‑Stability, High‑Efficiency LLM Runtime
